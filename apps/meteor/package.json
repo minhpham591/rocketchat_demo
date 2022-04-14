@@ -321,7 +321,7 @@
 		"react-query": "^3.33.1",
 		"react-virtuoso": "^1.8.6",
 		"redis": "^2.8.0",
-		"semver": "^5.7.1",
+		"semver": "^7.3.7",
 		"sharp": "^0.29.3",
 		"sip.js": "^0.20.0",
 		"sodium-native": "^3.2.1",
