@@ -149,7 +149,7 @@
 		"mock-require": "^3.0.3",
 		"outdent": "~0.8.0",
 		"pino-pretty": "^7.5.1",
-		"postcss": "^8.3.5",
+		"postcss": "^8.4.12",
 		"postcss-custom-properties": "^11.0.0",
 		"postcss-easy-import": "^3.0.0",
 		"postcss-load-config": "^3.1.0",
