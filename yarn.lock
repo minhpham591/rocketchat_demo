@@ -3904,7 +3904,7 @@ __metadata:
     path: ^0.12.7
     path-to-regexp: ^6.2.0
     pdfjs-dist: ^2.8.335
-    photoswipe: ^4.1.3
+    photoswipe: ^5.3.6
     pino: ^7.9.2
     pino-pretty: ^7.6.0
     poplib: ^0.1.7
@@ -21443,10 +21443,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"photoswipe@npm:^4.1.3":
-  version: 4.1.3
-  resolution: "photoswipe@npm:4.1.3"
-  checksum: 2eecc188d81642832cd5086e3954a6b5546b70651b6a76752625d9ff7b5e63ede9347316edc8110d7dba90acf55d2e8b2e917f454ed46c2594b09084c383aa37
+"photoswipe@npm:^5.3.6":
+  version: 5.3.6
+  resolution: "photoswipe@npm:5.3.6"
+  checksum: 192004e33dbba7567744c96835b43f17a118653a24e099f9e31c2ddea9d7214ac7c28ff8994d4f7c20720c7f7fd00b62ad8ade5e3d59994f00a27390419ba11c
   languageName: node
   linkType: hard
 
